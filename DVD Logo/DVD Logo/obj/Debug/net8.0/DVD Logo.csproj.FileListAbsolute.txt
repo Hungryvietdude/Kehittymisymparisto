@@ -1,0 +1,22 @@
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\DVD Logo.exe
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\DVD Logo.deps.json
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\DVD Logo.runtimeconfig.json
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\DVD Logo.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\DVD Logo.pdb
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\Raylib-cs.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.csproj.AssemblyReference.cache
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.AssemblyInfoInputs.cache
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.AssemblyInfo.cs
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.csproj.CopyComplete
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\refint\DVD Logo.dll
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.pdb
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\DVD Logo.genruntimeconfig.cache
+C:\Tiedostot\Visual Studio 2022\Kehitysympäristö Tehtävät\DVD Logo\DVD Logo\obj\Debug\net8.0\ref\DVD Logo.dll
